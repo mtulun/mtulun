@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: He/His
+
 - 🔭 I’m currently working on Bilge Adam
 - 🌱 I’m currently learning .NET Microservices
 - 📫 How to reach me: [LinkedIn - @mtulun](https://www.linkedin.com/in/mtulun/)
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+- 😄 Pronouns: He/His
 
 - ⚡ Fun fact: ...
 -->
