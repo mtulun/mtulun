@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BilgeAdam
+- 🔭 I’m currently working on Bilge Adam
 - 🌱 I’m currently learning .NET Microservices
 - 📫 How to reach me: LinkedIn - @mtulun
 <!--
