@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Bilge Adam
 - 🌱 I’m currently learning .NET Microservices
-- 📫 How to reach me: LinkedIn - @mtulun
+- 📫 How to reach me: [LinkedIn - @mtulun](https://www.linkedin.com/in/mtulun/)
 <!--
 **mtulun/mtulun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
