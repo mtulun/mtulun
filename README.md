@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: [LinkedIn - @mtulun](https://www.linkedin.com/in/mtulun/)
+- :computer: I’m currently learning <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mtulun/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;  
 <!--
 **mtulun/mtulun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
