@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Taylan
+### Hi, I'm Taylan
 
 
 
