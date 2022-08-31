@@ -2,7 +2,8 @@
 
 
 
-- 📫 <h3 align="left">Reach me via email</h3>
+- <h3 align="left">Reach me via email</h3>
+- <h3 align="left">----------------------</h3>
  <a href="	taylan.ulun@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>&nbsp;&nbsp;
 - <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mtulun/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp; 
@@ -11,6 +12,7 @@
 
 
 <h3 align="center"> Skills </h3>
+<h3 align="center"> ------- </h3>
 <p dir="auto">
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;
@@ -32,7 +34,7 @@
 - :computer: I’m currently learning <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 Here are some ideas to get you started:
 https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-
+- 📫 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
