@@ -1,4 +1,4 @@
-### Mustafa Taylan Ulun
+<h1 align="center">Mustafa Taylan Ulun</h1>
 
 <h3 align="center">Reach me via email</h3>
 <p align="center" dir="auto">
