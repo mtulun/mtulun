@@ -2,13 +2,14 @@
 
 
 
-<h3 align="left">Reach me via email</h3>
- <a href="taylan.ulun@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>&nbsp;&nbsp;
-- <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/mtulun/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp; 
-<a href="https://medium.com/@taylan.ulun"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>&nbsp;&nbsp; 
-<a href="https://stackoverflow.com/users/17129905/mtulun"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> </a>&nbsp;&nbsp; 
-
+<h3 align="center">Reach me via email</h3>
+ <a align="center" href="taylan.ulun@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>&nbsp;&nbsp;
+- <h3 align="center">Connect with me:</h3>
+<p dir="auto">
+    <a href="https://www.linkedin.com/in/mtulun/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp; 
+    <a href="https://medium.com/@taylan.ulun"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>&nbsp;&nbsp; 
+    <a href="https://stackoverflow.com/users/17129905/mtulun"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> </a>&nbsp;&nbsp; 
+</p>
 
 <h3 align="center"> Skills </h3>
 <p dir="auto">
