@@ -11,21 +11,21 @@
 
 
 <h3 align="center"> Skills </h3>
-:---:
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/00aa16e3-c365-4ea6-9a62-1aded9d1dd07?source=linked_in_profile"> <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white" /> </a>&nbsp;&nbsp; 
-<a href="https://www.credly.com/badges/627f1462-03ba-45a7-81bc-8de48cfb15ae?source=linked_in_profile"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> </a>&nbsp;&nbsp; 
-:---:
+<p dir="auto">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp;&nbsp;
+    <a href="https://www.credly.com/badges/00aa16e3-c365-4ea6-9a62-1aded9d1dd07?source=linked_in_profile"> <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white" /> </a>&nbsp;&nbsp; 
+    <a href="https://www.credly.com/badges/627f1462-03ba-45a7-81bc-8de48cfb15ae?source=linked_in_profile"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> </a>&nbsp;&nbsp; 
+</p>
 
 <!--
 **mtulun/mtulun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
