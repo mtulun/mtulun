@@ -2,9 +2,8 @@
 
 <h3 align="center">Reach me via email</h3>
 <p align="center" dir="auto">
-    <a align="center" link="mailto:taylan.ulun@outlook.com" href="taylan.ulun@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>&nbsp;&nbsp;
+    <a align="center" href="mailto:taylan.ulun@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>&nbsp;&nbsp;
 </p>
-
 <h3 align="center">Connect with me</h3>
 <p dir="auto" align="center">
     <a href="https://www.linkedin.com/in/mtulun/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp; 
