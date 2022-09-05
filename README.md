@@ -1,4 +1,8 @@
-<h1 align="center">Mustafa Taylan Ulun</h1>
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://github.com/mtulun">Mustafa Taylan Ulun</a></b>
+        </samp>
+</h3>
 
 <h3 align="center">Reach me via email</h3>
 <p align="center" dir="auto">
