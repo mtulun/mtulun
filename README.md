@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp;&nbsp;
+    <img src="![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" />&nbsp;&nbsp;
     <a href="https://www.credly.com/badges/00aa16e3-c365-4ea6-9a62-1aded9d1dd07?source=linked_in_profile"> <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white" /> </a>&nbsp;&nbsp; 
     <a href="https://www.credly.com/badges/627f1462-03ba-45a7-81bc-8de48cfb15ae?source=linked_in_profile"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> </a>&nbsp;&nbsp; 
 </p>
